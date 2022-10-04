@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/Mujeebu93992980" target="blank"><img src="https://img.shields.io/twitter/follow/Mujeeb?logo=twitter&style=for-the-badge" alt="Mujeeburrahman" /></a> </p>
 
 ---
-
 <a href="#">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
+  <img height="180px" width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
 </a>
 <a href="#">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
+  <img height="180px" width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
 </a>
 
 ---

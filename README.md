@@ -1,10 +1,7 @@
 ### Hi there 👋 I'm Mujeeb-ur-Rahman
 
----
-
 ## I'm student at Microverse!
 
----
 
 <!--
 **Mujeeb4582/Mujeeb4582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +14,16 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/Mujeebu93992980" target="blank"><img src="https://img.shields.io/twitter/follow/Mujeeb?logo=twitter&style=for-the-badge" alt="Mujeeburrahman" /></a> </p>
 
 ---
+
 <a href="#">
-  <img height="180px" width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
+  <img height="180px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
 </a>
 <a href="#">
-  <img height="180px" width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
+  <img height="180px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
 </a>
 
 ---
+
 - 🌱 I’m currently learning **HTML, CSS, SCSS, JavaScript**
 - 👯 I’m looking to collaborate on with other content creator
 - 🤔 I’m looking for help with with someone who need help
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 
 
 --- 
-<br>
 
 ### Connect with me:
 

@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ---
 
 <a href="#">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
 </a>
 <a href="#">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
 </a>
 
 ---

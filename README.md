@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mujeeb-ur-Rahman
+### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mujeeb-ur-Rahman
 
 ## I'm student at Microverse!
 
@@ -10,19 +10,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mujeeb4582&label=Profile%20views&color=0e75b6&style=flat" alt="Mujeeb4582" /> </p>
 <p align="left"> <a href="https://twitter.com/Mujeebu93992980" target="blank"><img src="https://img.shields.io/twitter/follow/Mujeeb?logo=twitter&style=for-the-badge" alt="Mujeeburrahman" /></a> </p>
 
 ---
 
-<a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
-</a>
-<a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
-</a>
 
----
 
 - 🌱 I’m currently learning **HTML, CSS, SCSS, JavaScript**
 - 👯 I’m looking to collaborate on with other content creator
@@ -33,6 +27,20 @@ Here are some ideas to get you started:
 
 
 --- 
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="#">
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
+</a>
+
+<a href="#">
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
+</a>
+
+---
 
 ### Connect with me:
 

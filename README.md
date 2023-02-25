@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, SCSS, JavaScript, React, Redux, PostgresSQL, Ruby**
+- 🌱 I’m currently learning **HTML, CSS, SCSS, JavaScript, React, Redux, PostgresSQL, Ruby-on-Rails**
 - 👯 I’m looking to collaborate on with other content creator
 - 🤔 I’m looking for help with with someone who need help
 - 📫 How to reach me: **mujeeburahman4582@gmail.com**

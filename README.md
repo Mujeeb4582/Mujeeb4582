@@ -1,6 +1,6 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mujeeb-ur-Rahman
 
-## I'm student at Microverse!
+## I'm FullStack Web Developer!
 
 
 <!--
@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, PostgresSQL, Ruby-on-Rails, React-native**
-- 👯 I’m looking to collaborate on with other content creator
-- 🤔 I’m looking for help with with someone who need help
+- 🌱 Crafting scalable, cross-platform solutions with React, React Native, Next.js, and AWS, powered by PostgreSQL and Firebase for seamless, real-time performance.
+- 👯 I’m looking to collaborate with other content creator
+- 🤔 I’m looking for help with someone who needs help
 - 📫 How to reach me: **mujeeburahman4582@gmail.com**
 - ⚡ Fun fact: I love to play badminton and want to know about new technology
-- 🥅 2024 Goals: Work as Full-Stack-Web-developer
+- 🥅 2024 Goal: Secure an international role as a Full-Stack Web Developer with a cutting-edge tech company.
 
 
 --- 
